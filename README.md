@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+- 🔭 I’m currently working on full-stack developer role (using react + node.js)
+
 
 <!--
 **bodyaalyas12/bodyaalyas12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
