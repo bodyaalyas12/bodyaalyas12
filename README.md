@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working on full-stack developer role (using react + node.js)
-
+- You can check out my recent project written in Next.js v13 app directory https://github.com/bodyaalyas12/imagify
 
 <!--
 **bodyaalyas12/bodyaalyas12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
